@@ -15,3 +15,9 @@ header{
     color: white;
     background-color: mediumspringgreen;
 }
+
+.starting-price{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
