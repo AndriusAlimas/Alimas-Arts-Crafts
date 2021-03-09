@@ -1,7 +1,4 @@
-*{
-    padding: 0;
-    margin: 0;
-}
+
 header{
     font-family: Helvetica;
     font-size: 100px;
@@ -12,7 +9,6 @@ header{
 }
 
 #title-brushes{
-    margin: 50px auto;
     font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
