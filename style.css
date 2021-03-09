@@ -10,3 +10,12 @@ header{
     text-align: center;
     background-image: url(./img/pattern.jpg);
 }
+
+#title-brushes{
+    margin: 50px auto;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
