@@ -1,4 +1,3 @@
-
 header{
     font-family: Helvetica;
     font-size: 100px;
@@ -7,8 +6,8 @@ header{
     text-align: center;
     background-image: url(./img/pattern.jpg);
 }
-
-#title-brushes, #title-frames{
+#title-brushes, #title-frames, #title-paint{
+    margin: 15px;
     font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
@@ -19,6 +18,9 @@ header{
 }
 #title-frames{
     background-color: lightcoral;
+}
+#title-paint{
+    background-color: skyblue;
 }
 .starting-price{
     font-family: Helvetica;
